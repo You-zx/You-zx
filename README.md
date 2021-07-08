@@ -33,6 +33,7 @@
 [![Hexo](https://img.shields.io/badge/-Hexo-000000?style=flat&logo=Hexo)](https://hexo.io/)
 [![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=nodedotjs)](https://github.com/nodejs)
 [![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/microsoft/vscode)
+[![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=Python)](https://www.python.org/)
 
 <br><br>
 
