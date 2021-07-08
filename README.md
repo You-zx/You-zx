@@ -1,9 +1,8 @@
 ## :man_technologist: Hey! i'm [Cooper](https://You-zx.github.io/), a developer from China.
 
-### :zap: Languages I use
+### :✏️: Languages I use
 
-![ASP.NET](https://img.shields.io/badge/-ASP.NET-000000?style=flat&logo=.net&logoColor=00000)
-<img align="left" src="icons/C#.svg" alt="C#" height="40px" />
+<img align="left" src="icons/dotnet.svg" alt=".NET" height="40px" />
 <img align="left" src="icons/javascript.svg" alt="JS" height="40px" />
 <img align="left" src="icons/python.svg" alt="Python" height="40px" />
 
@@ -21,7 +20,7 @@
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github)
-![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Visual Studio Code](https://img.shields.io/badge/-VS-000000?style=flat&logo=visual-studio-code&logoColor=5C2D91)
 ![Visual Studio](https://img.shields.io/badge/-VS-000000?style=flat&logo=visual-studio&logoColor=8661C5)
 ![Postman](https://img.shields.io/badge/-Postman-000000?style=flat&logo=Postman)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=MySQL)
@@ -42,7 +41,7 @@
 ### 💻 Open Source Work Stats
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=You-zx&show_icons=true)
-
+<img align="center" src="https://github-readme-stats.vercel.app/api/dracula/?username=You-zx&theme=Gradient" />
 ### :eyes: Visitors Count
 
 ![visitors-count](https://visitor-badge.laobi.icu/badge?page_id=You-zx.readme)
