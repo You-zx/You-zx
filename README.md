@@ -1,4 +1,4 @@
-## :man_technologist: Hey! i'm [Cooper](https://You-zx.github.io/), a developer from China. :🇨🇳:
+## :man_technologist: Hey! i'm [Cooper](https://You-zx.github.io/), a developer from China. 
 
 ### ✏️ Languages I use
 
@@ -42,6 +42,6 @@
 ![github stats](https://github-readme-stats.vercel.app/api?username=You-zx&show_icons=true)
 
 
-### :🤓: Visitors Count
+### 🤓 Visitors Count
 
 ![visitors-count](https://visitor-badge.laobi.icu/badge?page_id=You-zx.readme)
