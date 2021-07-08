@@ -2,6 +2,7 @@
 
 ### :zap: Languages I use
 
+![ASP.NET](https://img.shields.io/badge/-ASP.NET-000000?style=flat&logo=.net&logoColor=00000)
 <img align="left" src="icons/C#.svg" alt="C#" height="40px" />
 <img align="left" src="icons/javascript.svg" alt="JS" height="40px" />
 <img align="left" src="icons/python.svg" alt="Python" height="40px" />
