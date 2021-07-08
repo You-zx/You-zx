@@ -1,4 +1,4 @@
-## :man_technologist: Hey! i'm [Alvin](https://You-zx.github.io/), a developer from China.
+## :man_technologist: Hey! i'm [Jonath](https://You-zx.github.io/), a developer from China.
 
 ### :zap: Languages I use
 
@@ -29,11 +29,11 @@
 ![Google Analytics](https://img.shields.io/badge/-GA-000000?style=flat&logo=google-analytics)
 
 ### :heart: Some of my favorite open source projects
-
+[![Visual Studio](https://img.shields.io/badge/-VS-000000?style=flat&logo=visual-studio&logoColor=8661C5)](https://visualstudio.microsoft.com/zh-hans/vs/)
 [![Hexo](https://img.shields.io/badge/-Hexo-000000?style=flat&logo=Hexo)](https://hexo.io/)
 [![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=nodedotjs)](https://github.com/nodejs)
 [![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/microsoft/vscode)
-[![Visual Studio](https://img.shields.io/badge/-VS-000000?style=flat&logo=visual-studio&logoColor=8661C5)](https://visualstudio.microsoft.com/zh-hans/vs/)
+
 
 <br><br>
 
