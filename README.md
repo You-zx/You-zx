@@ -1,4 +1,13 @@
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+👨‍💻 Hey! i'm Alvin, a developer from China.
+⚡ Languages I use
+JS
 
-<img src="https://raw.githubusercontent.com/<OWNER>/<OWNER>/master/<GIF_NAME>.gif" width="30px">
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+Python
+
+C#
+
+
+
+
+🚀 Some of the technologies I have worked with
+HTML5 CSS3 Node.js jQuery Bootstrap Hexo MySQL Markdown Postman Google Visual Studio Code Git GitHub 
