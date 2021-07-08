@@ -6,11 +6,13 @@
 <img align="left" src="/icons/javascript.svg" alt="JS" height="50px" />
 <img align="left" src="/icons/python.svg" alt="Python" height="50px" />
 
-<br><br>
+<br>
+<br>
+
 
 ### :rocket: Some of the technologies I have worked with
-![Visual Studio Code](https://img.shields.io/badge/-VS-000000?style=flat&logo=visual-studio-code&logoColor=5C2D91)
-![Visual Studio](https://img.shields.io/badge/-VS-000000?style=flat&logo=visual-studio&logoColor=8661C5)
+![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Visual Studio](https://img.shields.io/badge/-VS-000000?style=flat&logo=visual-studio&logoColor=5C2D91)
 ![Postman](https://img.shields.io/badge/-Postman-000000?style=flat&logo=Postman)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=MySQL)
 ![Redis](https://img.shields.io/badge/-Redis-000000?style=flat&logo=Redis)
@@ -27,19 +29,20 @@
 
 
 ### :heart: Some of my favorite open source projects
-[![Visual Studio](https://img.shields.io/badge/-VS-000000?style=flat&logo=visual-studio&logoColor=8661C5)](https://visualstudio.microsoft.com/zh-hans/vs/)
+[![Visual Studio](https://img.shields.io/badge/-VS-000000?style=flat&logo=visual-studio&logoColor=5C2D91)](https://visualstudio.microsoft.com/zh-hans/vs/)
 [![Hexo](https://img.shields.io/badge/-Hexo-000000?style=flat&logo=Hexo)](https://hexo.io/)
 [![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=nodedotjs)](https://github.com/nodejs)
 [![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/microsoft/vscode)
 
 
-<br><br>
+<br>
+<br>
 
 
 ### 💻 Open Source Work Stats
 
-![github stats](https://github-readme-stats.vercel.app/api?username=You-zx&show_icons=true)
-[![github stats](https://github-readme-stats.vercel.app/api/wakatime?username=You-zx)](https://github.com/anuraghazra/github-readme-stats)
+![github stats](https://github-readme-stats.vercel.app/api/Gradient?username=You-zx&show_icons=true)
+
 
 ### :eyes: Visitors Count
 
