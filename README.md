@@ -1,4 +1,4 @@
-## :man_technologist: Hey! i'm [Leon](https://You-zx.github.io/), a developer from China.
+## :man_technologist: Hey! i'm [Cooper](https://You-zx.github.io/), a developer from China.
 
 ### :zap: Languages I use
 
