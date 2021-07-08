@@ -1,13 +1,13 @@
-## :man_technologist: Hey! i'm [Cooper](https://You-zx.github.io/), a developer from China.
+## :man_technologist: Hey! i'm [Cooper](https://You-zx.github.io/), a developer from China. :🇨🇳:
 
-### :✏️: Languages I use
+### ✏️ Languages I use
 
 <img align="left" src="/icons/dotnet.svg" alt=".NET" height="50px" />
 <img align="left" src="/icons/javascript.svg" alt="JS" height="50px" />
 <img align="left" src="/icons/python.svg" alt="Python" height="50px" />
 
-<br>
-<br>
+<br><br><br><br>
+
 
 
 ### :rocket: Some of the technologies I have worked with
@@ -34,16 +34,13 @@
 [![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=nodedotjs)](https://github.com/nodejs)
 [![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/microsoft/vscode)
 
-
-<br>
-<br>
-
+<br><br>
 
 ### 💻 Open Source Work Stats
 
-![github stats](https://github-readme-stats.vercel.app/api/Gradient?username=You-zx&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=You-zx&show_icons=true)
 
 
-### :eyes: Visitors Count
+### :🤓: Visitors Count
 
 ![visitors-count](https://visitor-badge.laobi.icu/badge?page_id=You-zx.readme)
